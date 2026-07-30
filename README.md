@@ -8,7 +8,7 @@ Utility Expert Advisors for MetaTrader 5, built to manage positions around sprea
 
 | EA | Description |
 |----|-------------|
-| [SpreadHourDodger](SpreadHourDodger.md) | Removes stop losses during spread hour to prevent false SL hits from widened spreads |
+| [SpreadHourDodger](SpreadHourDodger.md) | Protects positions from false SL hits during spread hour by removing or widening stop losses, then restoring them |
 | [NewsDodger](NewsDodger.md) | Closes open positions at a specified time before high-impact news events |
 
 ---
